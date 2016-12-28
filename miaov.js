@@ -22,6 +22,7 @@ window.onload=function ()
 {
 	var i=0;
 	var oTag=null;
+	document.body.style.display = 'block';
 	
 	oDiv=document.getElementById('div1');
 	
