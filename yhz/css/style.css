@@ -145,7 +145,7 @@ h2 {
 
 .jb{width: 706px;margin-right: 56px;overflow: hidden;}
 .jb a:hover{color: red;text-decoration: none;}
-.zcjb{height: 654px;}
+.zcjb{height: 654px;margin-bottom: 20px;}
 h4{font-size: 34px;font-weight: normal;}
 h4 span{color: #c8c8c8;font-size: 14px;margin-left: 18px;}
 .jb li{width: 333px;float: left;margin-right: 40px;}
@@ -176,18 +176,23 @@ h6 a{font-size: 15px;color: #11a6cd;}
 .ys_ques_lb li:hover{cursor: pointer;}
 .ys_ques_lb .hot a{color: #ff0000;}
 .ys_ques_lb .hot div{display: block; cursor: default;height: 70px;overflow: hidden;padding-left: 4px;}
+.ys_online{margin-top:10px;}
 .ys_online_hd{line-height: 50px;height: 50px;font-size: 14px;border-bottom: 1px solid #a0a0a0;margin-bottom: 18px;overflow: hidden;}
 .ys_online_hd h5{float: left; width: 157px;margin-bottom: 0;}
 .qhcs{width: 81px;line-height: 70px;}
-.ys_list li{height: 164px;font-size: 14px;}
+.ys_list li{height: 174px;font-size: 14px;}
+.ys_list a{color: #000;}
+.ys_list a:hover{color: #f00;}
 .ys_list li img{float: left; width: 104px;height: 104px;margin-right:9px;}
 .ys_list_txt{width: 124px;}
-.btn{margin-top: 9px;}
+.ys_list_txt p{margin-bottom: 10px;}
+.btn{margin-top: 14px;}
 .btn a{width: 100px;height: 27px;line-height: 27px;text-align: center;color: #fff;text-decoration: none;}
+.btn a:hover{color: #fff;}
 .btn .fl{background: url(../images/sy_wytw.png) no-repeat 0 0;}
 .btn .fr{background: url(../images/sy_wyyy.png) no-repeat 0 0;}
 
-.ct_md_b{height: 312px;margin-top: 20px; overflow: hidden;}
+.ct_md_b{height: 312px;margin-top: 40px; overflow: hidden;}
 .news{width: 287px;height: 310px;border:1px solid #d3d3d3;overflow: hidden;}
 .news_hd{height: 30px;line-height: 30px;color: #fff;background: #0171a3;}
 .news_hd li{width: 50%;float: left;text-align: center;cursor: pointer;}
@@ -268,7 +273,7 @@ h6{color: #0171a3;font-size: 15px;text-indent: 0;text-align: center;}
 .yyhj_hd_r li{float: left;margin-right:20px;}
 .yyhj_hd_r a{display: block;text-decoration: none; text-align: center;width: 138px;height: 35px;line-height: 35px; color: #fff;}
 .yyhj_hd_r .hot a{background: url(../images/sy_btnbg.png) no-repeat 0 0;color: #cfb694;}
-.yyhj_ct{width: 976px; height: 479px;border:#bfbfbf solid 2px;padding:0 9px;}
+.yyhj_ct{width: 978px; height: 479px;border:#bfbfbf solid 2px;padding:0 9px;}
 .yyhj_ct_hd{height: 93px;line-height: 93px;text-align: center;color: #313131;font-size: 28px;}
 
 .hj1{display: block;width: 451px;}
