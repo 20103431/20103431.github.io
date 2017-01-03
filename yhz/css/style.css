@@ -168,7 +168,7 @@ h6 a{font-size: 15px;color: #11a6cd;}
 .ys_team{height: 327px;margin-top: 18px;}
 .ys_team p{height: 49px;line-height: 49px;background: url(../images/sy_per.png) no-repeat 54px 14px;font-size: 14px;padding-left: 94px;}
 .ys_ques{height: 358px;}
-.ys_ques_lb li{margin-bottom:6px;}
+.ys_ques_lb li{margin-bottom:8px;}
 .ys_ques_lb li div{display: none; font-size: 14px;}
 .ys_ques_lb li p{ border:1px solid #bfbfbf;display: block; width: 197px;height: 29px;line-height: 29px; padding-left: 38px;font-size: 16px;background: url(../images/sy_plus.png) no-repeat 9px center;}
 .ys_ques_lb .hot{height: 70px;overflow: hidden;}
