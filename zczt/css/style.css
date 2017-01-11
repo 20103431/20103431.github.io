@@ -51,13 +51,15 @@ header a {display: block;width: .83rem; height: .64rem;margin-top: .4rem;}
 .zxzx_btn{display: block;width: 1.72rem;height: .6rem;padding-left: .29rem; background: #1ebf4e;position: absolute;top: 0;right: 0;border-top-right-radius:20px;border-bottom-right-radius:20px;color: #fff;font-size: .36rem;}
 
 .zczz_list{width: 5.95rem;height: 2.25rem;margin: .26rem auto 0 auto;}
-.zczz_list li{float: left; width: 1.48rem;height: 2.25rem;text-align: center;border: 1px solid #e5e5e5;margin-right: .73rem;}
+.zczz_list li{float: left; width: 1.48rem;height: 2.25rem;text-align: center;margin-right: .73rem;}
+.zczz_list li img{border: 1px solid #e5e5e5;}
 .zczz_list li p{margin-top: .1rem;}
 
 .zczz_list2{width: 6.7rem;height: 4.5rem;margin: .3rem auto .38rem auto;}
 .zczz_list2 li{float: left; border: 1px solid #e5e5e5;width: 2.2rem;height: 2.15rem;text-align: center;}
 .zczz_list2 li img{border: 1px solid #e5e5e5;margin: .15rem 0 0 .35rem;width: 1.48rem;height: 1.48rem;}
 .zczz_list2 li:nth-child(4),.zczz_list2 li:nth-child(5),.zczz_list2 li:nth-child(6){border-top: none;}
+.zczz_list2 li:nth-child(2),.zczz_list2 li:nth-child(5){border-left: none;border-right: none;}
 
 .cgjt{width: 4rem;height: 2.96rem;margin: .4rem auto .38rem auto;}
 .qjf{display: block;width: 4rem;height: .6rem;line-height: .6rem;text-align: center;font-size: .36rem;color: #fff;background: #1ebf4e;margin: 0 auto;border-radius: 20px;}
