@@ -41,7 +41,7 @@ header a {display: block;width: .83rem; height: .64rem;margin-top: .4rem;}
 .sectionA_hd_m h2 span{color: #ff8900;}
 .sectionA_hd_r{width: 1rem;height: 1rem;margin:.36rem .25rem 0 0;}
 .section_md{padding: 0 .42rem;}
-.section_md p{font-size: .22rem;color: #000;line-height: .5rem;}
+.section_md p{font-size: .26rem;color: #000;line-height: .58rem;}
 .section_md p b{font-size: .34rem;line-height: .4rem}
 .zzt{width: 5.08rem;height: 3.81rem;margin: .3rem auto;border: 1px solid #000;padding: .16rem;}
 .section_md h3{height: .72rem;font-size: .28rem;color: #000;line-height: .72rem;}
@@ -50,7 +50,7 @@ header a {display: block;width: .83rem; height: .64rem;margin-top: .4rem;}
 .zxzx{position: relative; font-size: .28rem;color:#fff;width: 6.38rem;height: .6rem;margin: 0 auto;padding-left: .32rem; line-height: .6rem;background: #333333;border-radius: 20px;}
 .zxzx_btn{display: block;width: 1.72rem;height: .6rem;padding-left: .29rem; background: #1ebf4e;position: absolute;top: 0;right: 0;border-top-right-radius:20px;border-bottom-right-radius:20px;color: #fff;font-size: .36rem;}
 
-.zczz_list{width: 5.95rem;height: 2.25rem;margin: .26rem auto 0 auto;}
+.zczz_list{width: 5.95rem;height: 2.25rem;margin: .26rem auto .26rem auto;}
 .zczz_list li{float: left; width: 1.48rem;height: 2.25rem;text-align: center;margin-right: .73rem;}
 .zczz_list li img{border: 1px solid #e5e5e5;}
 .zczz_list li p{margin-top: .1rem;}
