@@ -42,10 +42,10 @@ header a {display: block;width: .83rem; height: .64rem;margin-top: .4rem;}
 .sectionA_hd_r{width: 1rem;height: 1rem;margin:.36rem .25rem 0 0;}
 .section_md{padding: 0 .42rem;}
 .section_md p{font-size: .26rem;color: #000;line-height: .58rem;}
-.section_md p b{font-size: .34rem;line-height: .4rem}
+.section_md p b{font-size: .34rem;line-height: .54rem}
 .zzt{width: 5.08rem;height: 3.81rem;margin: .3rem auto;border: 1px solid #000;padding: .16rem;}
 .section_md h3{height: .72rem;font-size: .28rem;color: #000;line-height: .72rem;}
-.syt{width: 2.68rem;height: 3.5rem;text-align: center;margin: .3rem auto;}
+.syt{width: 2.68rem;height: 3.8rem;text-align: center;margin: .3rem auto;}
 .syt p{color: #c52d00;font-size: .26rem;font-weight: bold;margin-bottom: .16rem;}
 .zxzx{position: relative; font-size: .28rem;color:#fff;width: 6.38rem;height: .6rem;margin: 0 auto;padding-left: .32rem; line-height: .6rem;background: #333333;border-radius: 20px;}
 .zxzx_btn{display: block;width: 1.72rem;height: .6rem;padding-left: .29rem; background: #1ebf4e;position: absolute;top: 0;right: 0;border-top-right-radius:20px;border-bottom-right-radius:20px;color: #fff;font-size: .36rem;}
@@ -55,8 +55,8 @@ header a {display: block;width: .83rem; height: .64rem;margin-top: .4rem;}
 .zczz_list li img{border: 1px solid #e5e5e5;}
 .zczz_list li p{margin-top: .1rem;}
 
-.zczz_list2{width: 6.7rem;height: 4.5rem;margin: .3rem auto .38rem auto;}
-.zczz_list2 li{float: left; border: 1px solid #e5e5e5;width: 2.2rem;height: 2.15rem;text-align: center;}
+.zczz_list2{width: 6.7rem;margin: .3rem auto .1rem auto;}
+.zczz_list2 li{float: left; border: 1px solid #e5e5e5;width: 2.2rem;height: 2.3rem;text-align: center;}
 .zczz_list2 li img{border: 1px solid #e5e5e5;margin: .15rem 0 0 .35rem;width: 1.48rem;height: 1.48rem;}
 .zczz_list2 li:nth-child(4),.zczz_list2 li:nth-child(5),.zczz_list2 li:nth-child(6){border-top: none;}
 .zczz_list2 li:nth-child(2),.zczz_list2 li:nth-child(5){border-left: none;border-right: none;}
@@ -77,6 +77,13 @@ footer{height: 2rem; text-align: center;font-size: .27rem;line-height: .43rem;pa
 .btn .dw_8{width: .23rem;height: .23rem;position: absolute;top: -.2rem;left: .3rem;animation:mymove 1s infinite;
 -webkit-animation:mymove 1s infinite;}
 @keyframes mymove
+{
+0% {opacity:0;}
+50% {opacity:1;}
+100% {opacity:0;}
+}
+
+@-webkit-keyframes mymove
 {
 0% {opacity:0;}
 50% {opacity:1;}
