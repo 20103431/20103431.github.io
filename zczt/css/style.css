@@ -30,7 +30,7 @@ header a {display: block;width: .83rem; height: .64rem;margin-top: .4rem;}
 
 .banner{position: relative;}
 .banner img{height: 4rem;overflow: hidden;}
-.banner_btn{position: absolute;left: 13%; bottom: .36rem;width: 5.48rem;font-size: .3rem;}
+.banner_btn{position: absolute;left: 50%;margin-left: -2.74rem; bottom: .36rem;width: 5.48rem;font-size: .3rem;}
 .banner_btn a{display: block;width: 2.37rem;line-height: .57rem;background: #90c320;border-radius: 20px;color: #fff;text-align: center;}
 
 .section_a{font-family: "Microsoft YaHei";}
@@ -43,7 +43,7 @@ header a {display: block;width: .83rem; height: .64rem;margin-top: .4rem;}
 .section_md{padding: 0 .42rem;}
 .section_md p{font-size: .22rem;color: #000;line-height: .5rem;}
 .section_md p b{font-size: .34rem;line-height: .4rem}
-.zzt{width: 5.08rem;height: 3.81rem;margin: 0 auto;border: 1px solid #000;padding: .16rem;margin: .3rem;}
+.zzt{width: 5.08rem;height: 3.81rem;margin: .3rem auto;border: 1px solid #000;padding: .16rem;}
 .section_md h3{height: .72rem;font-size: .28rem;color: #000;line-height: .72rem;}
 .syt{width: 2.68rem;height: 3.5rem;text-align: center;margin: .3rem auto;}
 .syt p{color: #c52d00;font-size: .26rem;font-weight: bold;margin-bottom: .16rem;}
