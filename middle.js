@@ -44,8 +44,8 @@
     }
     
     var pflkt = document.getElementById('swt');  
-    pflkt.style.display = "none";     
-
+    pflkt.style.display = "none";
+    setTimeout(function(){pflkt.style.display = "block"},5000);
      document.getElementById('close_swt').onclick = function (){
                 var pflkt = document.getElementById('swt');  
                 pflkt.style.display = "none";               
