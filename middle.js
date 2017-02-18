@@ -1,5 +1,4 @@
 
-/**************************页面中间弹窗*************************************/
 ;(function(){
     var o = document.createElement('div');
     o.innerHTML = ['<style>',
