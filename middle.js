@@ -42,8 +42,10 @@
         while(o.firstElementChild){
         document.body.appendChild(o.firstElementChild);
     }
+    
+    var pflkt = document.getElementById('swt');  
+    pflkt.style.display = "none";     
 
-      
      document.getElementById('close_swt').onclick = function (){
                 var pflkt = document.getElementById('swt');  
                 pflkt.style.display = "none";               
