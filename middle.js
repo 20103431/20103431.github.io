@@ -1,5 +1,4 @@
-
-;(function(){
+(function(){
     var o = document.createElement('div');
     o.innerHTML = ['<style>',
     '.swtCenter {width:279px;height:261px; background-color:#FFF;position:fixed;left:50%;top:50%;z-index:200;margin-left:-139px;margin-top:-130px;-moz-border-radius:15px;-webkit-border-radius:15px;border-radius:15px;-moz-box-shadow:0 0 20px rgba(10,2,4,0.75);-webkit-box-shadow:0 0 20px rgba(10,2,4,0.75);box-shadow:0 0 20px rgba(10,2,4,0.75);}',
